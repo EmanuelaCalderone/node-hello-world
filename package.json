@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "first test npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmanuelaCalderone/node-hello-world.git"
+  },
+  "keywords": [
+    "npm", "json"
+  ],
+  "author": "Emanuela Calderone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmanuelaCalderone/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/EmanuelaCalderone/node-hello-world#readme"
+}
